@@ -1,11 +1,22 @@
-## Required Assets
+# ElectroLearn VR
 
-The Assets folder is not included in this repository due to size limitations.
+## Required Assets (Important)
+
+Due to GitHub LFS storage limits, the full Assets folder is not included
+in this repository.
 
 Download the original assets from Google Drive:
-[<PASTE YOUR DRIVE LINK HERE>](https://drive.google.com/drive/folders/1WzLcAcnKuxB05DQtoTGzJEImd159Z3_C)
+https://drive.google.com/drive/folders/1WzLcAcnKuxB05DQtoTGzJEImd159Z3_C
 
-After download:
-1. Extract the ZIP
-2. Copy the `Assets` folder into the project root
-3. Open the project in Unity
+## How to Set Up the Project
+
+1. Clone this repository
+2. Download the assets from the Google Drive link above
+3. Copy the downloaded `Assets` folder into the project root
+4. Open the project using the specified Unity version
+5. The project will open correctly with all meshes and animations
+
+## Notes
+- Do NOT rename asset folders
+- Do NOT delete `.meta` files
+- Always place assets inside the `Assets/` directory
