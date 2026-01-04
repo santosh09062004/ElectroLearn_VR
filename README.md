@@ -1,8 +1,8 @@
-\# ElectroLearn VR
+# ElectroLearn VR
 
 
 
-\## Required Assets (Important)
+## Required Assets (Important)
 
 
 
@@ -18,27 +18,27 @@ https://drive.google.com/drive/folders/1WzLcAcnKuxB05DQtoTGzJEImd159Z3\_C
 
 
 
-\## How to Set Up the Project
+## How to Set Up the Project
 
 
 
-1\. Clone this repository
+1. Clone this repository
 
-2\. Download the assets from the Google Drive link above
+2. Download the assets from the Google Drive link above
 
-3\. Copy the downloaded `Assets` folder into the project root
+3. Copy the downloaded `Assets` folder into the project root
 
-4\. Open the project using the specified Unity version
+4. Open the project using the specified Unity version
 
-5\. The project will open correctly with all meshes and animations
+5. The project will open correctly with all meshes and animations
 
 
 
-\## Notes
+## Notes
 
-\- Do NOT rename asset folders
+- Do NOT rename asset folders
 
-\- Do NOT delete `.meta` files
+- Do NOT delete `.meta` files
 
-\- Always place assets inside the `Assets/` directory
+- Always place assets inside the `Assets/` directory
 
