@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.google.xr.cardboard": {
-      "version": "file:C:/Users/M.SANTOSH/Downloads/Unity Important Files/cardboard-xr-plugin-master/cardboard-xr-plugin-master",
+      "version": "file:com.google.xr.cardboard",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.unity.inputsystem": "1.7.0",
         "com.unity.xr.management": "3.2.9",

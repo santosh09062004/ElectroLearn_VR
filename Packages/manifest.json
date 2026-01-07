@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.google.xr.cardboard": "file:C:/Users/M.SANTOSH/Downloads/Unity Important Files/cardboard-xr-plugin-master/cardboard-xr-plugin-master",
+    "com.google.xr.cardboard": "file:com.google.xr.cardboard",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.4.2",
